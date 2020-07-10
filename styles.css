@@ -1,0 +1,22 @@
+.container{
+    background-image: url(images/dolphy.jpg);
+    background-position: center;
+    background-size: cover;
+    width:100%;
+    font-size:large;
+}
+.personal{
+    line-height:200%;
+    font-size:20px;
+    float: right;
+    padding: 170px;
+    margin: 20px;
+    top: 2px;
+}
+img {
+    height: 5%;
+    width: 40%;
+}
+.link{
+    color: seashell;
+}
