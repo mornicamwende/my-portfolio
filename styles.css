@@ -6,15 +6,16 @@
     font-size:large;
 }
 .personal{
-    line-height:200%;
+    line-height:500%;
     font: size 25px;
     float: right;
-    padding: -50px;
+    padding-right: 30%;
     margin: 20px;
     top: 2px;
 }
 img {
     width: 40%;
+    border-radius: 50px;
 }
 .link{
     color: whitesmoke;
